@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mostfasafi/api-react-mostfa/static/css/main.756af292.css",
-    "main.js": "/mostfasafi/api-react-mostfa/static/js/main.94180e79.js",
-    "static/media/img_mountains_wide.jpg": "/mostfasafi/api-react-mostfa/static/media/img_mountains_wide.fed0dd86f0f492fb65bb.jpg",
-    "static/media/img_nature_wide.jpg": "/mostfasafi/api-react-mostfa/static/media/img_nature_wide.9a89b58b101b58335acf.jpg",
-    "static/media/img_lights_wide.jpg": "/mostfasafi/api-react-mostfa/static/media/img_lights_wide.7b925f2134ef57a9e55d.jpg",
-    "index.html": "/mostfasafi/api-react-mostfa/index.html",
-    "main.756af292.css.map": "/mostfasafi/api-react-mostfa/static/css/main.756af292.css.map",
-    "main.94180e79.js.map": "/mostfasafi/api-react-mostfa/static/js/main.94180e79.js.map"
+    "main.css": "/api-react-mostfa/static/css/main.756af292.css",
+    "main.js": "/api-react-mostfa/static/js/main.8785d02d.js",
+    "static/media/img_mountains_wide.jpg": "/api-react-mostfa/static/media/img_mountains_wide.fed0dd86f0f492fb65bb.jpg",
+    "static/media/img_nature_wide.jpg": "/api-react-mostfa/static/media/img_nature_wide.9a89b58b101b58335acf.jpg",
+    "static/media/img_lights_wide.jpg": "/api-react-mostfa/static/media/img_lights_wide.7b925f2134ef57a9e55d.jpg",
+    "index.html": "/api-react-mostfa/index.html",
+    "main.756af292.css.map": "/api-react-mostfa/static/css/main.756af292.css.map",
+    "main.8785d02d.js.map": "/api-react-mostfa/static/js/main.8785d02d.js.map"
   },
   "entrypoints": [
     "static/css/main.756af292.css",
-    "static/js/main.94180e79.js"
+    "static/js/main.8785d02d.js"
   ]
 }
