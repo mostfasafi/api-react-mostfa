@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.756af292.css",
+    "main.js": "/static/js/main.ca24de29.js",
+    "static/media/img_mountains_wide.jpg": "/static/media/img_mountains_wide.fed0dd86f0f492fb65bb.jpg",
+    "static/media/img_nature_wide.jpg": "/static/media/img_nature_wide.9a89b58b101b58335acf.jpg",
+    "static/media/img_lights_wide.jpg": "/static/media/img_lights_wide.7b925f2134ef57a9e55d.jpg",
+    "index.html": "/index.html",
+    "main.756af292.css.map": "/static/css/main.756af292.css.map",
+    "main.ca24de29.js.map": "/static/js/main.ca24de29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.ca24de29.js"
+  ]
+}
